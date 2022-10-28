@@ -4,3 +4,8 @@ footer {
 	height: 60px;
 	margin-top: auto;
 }
+footer, p {
+	display: flex;
+	justify-content: center;
+	justify-content: center;
+}
