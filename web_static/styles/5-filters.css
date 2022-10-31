@@ -31,10 +31,14 @@
 }
 .locations h3, .amenities h3 {
 	font-weight: 600;
+	margin-bottom: 0;
+	margin-left: 30px;
 }
 .locations h4, .amenities h4 {
-	        font-weight: 400;
-		font-size: 14px;
+	font-weight: 400;
+	font-size: 14px;
+	margin: 0;
+	margin-left: 30px;
 }
 
 .filters button:hover {
